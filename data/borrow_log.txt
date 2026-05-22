@@ -1,0 +1,6 @@
+2026-05-16 10:26:59 | anas | BORROW | B001 | Clean Code
+2026-05-16 10:27:08 | anas | BORROW | B002 | The Great Gatsby
+2026-05-16 10:27:10 | anas | BORROW | B005 | 1984
+2026-05-16 10:27:13 | anas | RETURN | B001 | Clean Code
+2026-05-17 10:13:15 | anas | BORROW | B001 | Clean Code
+2026-05-17 10:13:40 | anas | RETURN | B001 | Clean Code

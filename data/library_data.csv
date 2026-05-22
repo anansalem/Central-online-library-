@@ -1,0 +1,10 @@
+B001,Book,Clean Code,Robert Martin,2008,true,Programming,464,none
+B002,Book,The Great Gatsby,F. Scott Fitzgerald,1925,false,Fiction,180,anas
+B003,Book,Dune,Frank Herbert,1965,true,Sci-Fi,412,none
+B004,Book,Design Patterns,GoF,1994,true,Programming,395,none
+B005,Book,1984,George Orwell,1949,false,Fiction,328,anas
+E001,EBook,Head First Java,Kathy Sierra,2005,true,Programming,688,none,PDF,12.5
+E002,EBook,The Pragmatic Programmer,Hunt & Thomas,1999,true,Programming,352,none,EPUB,8.2
+M001,Magazine,National Geographic,Various,2024,true,Science,201
+M002,Magazine,Time,Various,2024,true,News,455
+M003,Magazine,IEEE Spectrum,IEEE,2024,true,Technology,88
